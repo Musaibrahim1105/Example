@@ -1,2 +1,3 @@
 
-learning how to push changes to the github repo
+1. learning how to push changes to the github repo
+2. changes pulled successfully, now is time to remodify and push back to github
